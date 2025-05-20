@@ -2,8 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: antiquewhite;
+    /* background-color: linear-gradient(120deg,rgb(75, 182, 232), rgb(165, 54, 195)); */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+body{
+    background: linear-gradient(120deg, rgb(248, 219, 147), rgb(165, 54, 195));
 }
  
 .container{
